@@ -1,0 +1,14 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9E17-2007
+
+ Directory of c:\temp\test
+
+03-Jun-19  20:05    <DIR>          .
+03-Jun-19  20:05    <DIR>          ..
+03-Jun-19  20:05                 0 newMachine.txt
+03-Jun-19  20:05                 9 README.md
+03-Jun-19  20:05               371 signedCommitTest.txt
+03-Jun-19  20:05               420 someFile.txt
+03-Jun-19  20:05                 7 test.txt
+               5 File(s)            807 bytes
+               2 Dir(s)  694,096,900,096 bytes free
