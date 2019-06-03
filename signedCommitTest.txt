@@ -1,0 +1,11 @@
+ Volume in drive C is OSDisk
+ Volume Serial Number is 1638-F965
+
+ Directory of C:\temp\test
+
+03-06-2019  14:25    <DIR>          .
+03-06-2019  14:25    <DIR>          ..
+03-06-2019  14:25                 9 README.md
+03-06-2019  14:25                 0 signedCommitTest.txt
+               2 File(s)              9 bytes
+               2 Dir(s)  139.842.691.072 bytes free
