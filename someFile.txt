@@ -3,10 +3,13 @@
 
  Directory of C:\temp\test
 
-03-06-2019  15:14    <DIR>          .
-03-06-2019  15:14    <DIR>          ..
+04-06-2019  09:06    <DIR>          .
+04-06-2019  09:06    <DIR>          ..
+04-06-2019  09:06    <DIR>          .git
+04-06-2019  09:06               527 newMachine.txt
 03-06-2019  14:25                 9 README.md
 03-06-2019  14:25               382 signedCommitTest.txt
-03-06-2019  15:14                 0 someFile.txt
-               3 File(s)            391 bytes
-               2 Dir(s)  139.848.282.112 bytes free
+04-06-2019  09:44                 0 someFile.txt
+03-06-2019  15:23                 7 test.txt
+               5 File(s)            925 bytes
+               3 Dir(s)  138.907.086.848 bytes free
